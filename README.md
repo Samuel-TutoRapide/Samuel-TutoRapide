@@ -14,13 +14,9 @@ J'ai suivi une formation **Technicien supérieur en réseaux informatiques et t�
 
 ❱ [Script Shell](https://github.com/T-TutoRapide) 8 Janvier 2021. Lancement d'un projet pour apprendre le bash.
 
-❱ [La Geekerie des Licornes](#) Un petit bot pour une amis Streameuse.(Bot orienté modération) Bot privé. (Projet arréter).
-
 ❱ [Notification instagram](https://github.com/T-TutoRapide/Instagram-Webhook) Post les nouveau post instagram sur discord .
 
 ❱ [Notification YouTube](https://github.com/T-TutoRapide/Instagram-Webhook) Post un message sur discord lors d'une nouvelle video youtube.
-
-❱ [La Taverne des lecteurs ](#) Bot discord (annonce live twitch, ticket, logs , rôle auto atribuable, ...) Bot privé.  (Projet arréter).
 
 ❱ [MQ-9 Reaper](https://discord.gg/DN89VEnJha) Bot discord (logs, ticket , ...) Bot privé.
 
