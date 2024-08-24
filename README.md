@@ -12,15 +12,15 @@ J'ai suivi une formation **Technicien supérieur en réseaux informatiques et t�
 
 ❱ [Noemie](#) Un bot discord multifonction qui était présent sur plus de 3500 serveur (Projet arréter).
 
-❱ [Script Shell](https://github.com/T-TutoRapide) 8 Janvier 2021. Lancement d'un projet pour apprendre le bash.
+❱ [Script Shell](https://github.com/Samuel-Community) 8 Janvier 2021. Lancement d'un projet pour apprendre le bash.
 
-❱ [Notification instagram](https://github.com/T-TutoRapide/Instagram-Webhook) Post les nouveau post instagram sur discord .
+❱ [Notification instagram](https://github.com/Samuel-Community/Instagram-Webhook) Post les nouveau post instagram sur discord .
 
-❱ [Notification YouTube](https://github.com/T-TutoRapide/Instagram-Webhook) Post un message sur discord lors d'une nouvelle video youtube.
+❱ [Notification YouTube](https://github.com/Samuel-Community/Instagram-Webhook) Post un message sur discord lors d'une nouvelle video youtube.
 
 ❱ [MQ-9 Reaper](https://discord.gg/DN89VEnJha) Bot discord (logs, ticket , ...) Bot privé.
 
-❱ [Games'Addict](https://discord.gg/DN89VEnJha) Bot discord (statistique de jeux) 
+❱ [Games'Addict](https://discord.gg/gfQ2xKauGJ) Bot discord (statistique de jeux) 
 <br/>
 
 
