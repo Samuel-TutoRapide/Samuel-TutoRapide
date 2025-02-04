@@ -66,7 +66,9 @@ Mes extention sur **Visual Studio Code**:
 
 `One Dark Pro,`
 `Prettier - Code formatter`
-([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-TutoRapide)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-TutoRapide)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ##### Contact
 
