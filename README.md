@@ -16,7 +16,7 @@ J'ai suivi une formation **Technicien supérieur en réseaux informatiques et t�
 
 ❱ [Notification instagram](https://github.com/Samuel-Community/Instagram-Webhook) Post les nouveau post instagram sur discord .
 
-❱ [Notification YouTube](https://github.com/Samuel-Community/Instagram-Webhook) Post un message sur discord lors d'une nouvelle video youtube.
+❱ [Notification YouTube](https://github.com/Samuel-Community/Notify-Youtube-discord) Post un message sur discord lors d'une nouvelle video youtube.
 
 ❱ [MQ-9 Reaper](https://discord.gg/DN89VEnJha) Bot discord (logs, ticket , ...) Bot privé.
 
